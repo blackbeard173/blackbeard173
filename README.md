@@ -4,11 +4,9 @@ I'm **Rituraj**, currently pursuing my bachelor's degree majoring in Computer Sc
 
 - 🔭 I’m currently working on **Data Structures**;
 
-- 🌱 I’m currently learning **openCV and C++**;
+- 🌱 I’m currently learning **C++**;
 
 - 💬 Ask me about anything, I am happy to help;
-
-- 😄 Pronouns: He/Him/His
 
 #### Programming Languages
 
